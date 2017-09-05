@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Todos</string>
+    <string name="save_task">přidat</string>
+    <string name="add_item">Zadejte obsah úlohy</string>
+</resources>

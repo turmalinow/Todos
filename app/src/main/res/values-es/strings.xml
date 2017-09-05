@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Todos</string>
+    <string name="add_item">Ingrese el contenido de la tarea</string>
+    <string name="save_task">añadir</string>
+</resources>

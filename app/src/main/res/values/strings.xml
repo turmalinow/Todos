@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Todos</string>
+    <string name="add_item">Enter task content</string>
+    <string name="save_task">Add</string>
+</resources>
